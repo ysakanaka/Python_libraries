@@ -1,0 +1,2 @@
+# Python_libraries
+とりあえず置いとく用Pythonのデータ構造実装コードとか
